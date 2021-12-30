@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzufaysal&label=Profile%20views&color=0e75b6&style=flat" alt="arzufaysal" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzufaysal" alt="arzufaysal" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arzu_faysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arzu_faysal" height="30" width="40" /></a>
@@ -20,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arzufaysal&show_icons=true&locale=en" alt="arzufaysal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arzufaysal&" alt="arzufaysal" /></p>
-
-
